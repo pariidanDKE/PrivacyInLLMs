@@ -1,4 +1,4 @@
-## Privacy in LLMs - Dan Parii
+## Privacy in LLMs - Master Thesis of Dan Parii
 
 This repository contains the ULD method, experiments as well as possible extensions will be added, geared towards answering the RQs of my thesis. Currently, the notebooks/RunULD notebook has some preliminary experiments with some models I have trained, but the models are not stored in the repository so they will not run.
 
