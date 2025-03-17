@@ -1,6 +1,6 @@
 ## Privacy in LLMs - Master Thesis of Dan Parii
 
-This repository contains the ULD method, experiments as well as possible extensions will be added, geared towards answering the RQs of my thesis. Currently, the notebooks/RunULD notebook has some preliminary experiments with some models I have trained, but the models are not stored in the repository so they will not run.
+This repository contains the ULD method, experiments as well as possible extensions will be added, which will be desgined to answer the RQs of my thesis. 
 
 
 The current RQs (internal and subject to change):
@@ -11,8 +11,7 @@ The current RQs (internal and subject to change):
    - How many forget samples included in LLM assistant would result in unacceptable decrease to model utility?
 3. How scalable is ULD, when it comes to complexity of the forgotten sample? Complexity either in terms of conceptual complexity, or as length of token sequence.
 
-
-Bellow is the README file of the ULD repository: 
+Currently, the notebooks/RunULD notebook has some preliminary experiments with some models I have trained, but the models are not stored in the repository so they will not run. Bellow is the README file of the ULD repository: 
 link: https://github.com/UCSB-NLP-Chang/ULD/tree/main/uld
 
 
