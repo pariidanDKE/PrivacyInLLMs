@@ -1,3 +1,21 @@
+## Privacy in LLMs - Dan Parii
+
+This repository contains the ULD method, experiments as well as possible extensions will be added, geared towards answering the RQs of my thesis. Currently, the notebooks/RunULD notebook has some preliminary experiments with some models I have trained, but the models are not stored in the repository so they will not run.
+
+
+The current RQs (internal and subject to change):
+
+1. Can the ULD method be extended to be Model Agnostic? i.e to have the same LLM assistant work with any target LLM.
+2. To what extent can ULD solve PII issues?
+   - To what extent can ULD forget specific samples with unwanted (likely medical) information?
+   - How many forget samples included in LLM assistant would result in unacceptable decrease to model utility?
+3. How scalable is ULD, when it comes to complexity of the forgotten sample? Complexity either in terms of conceptual complexity, or as length of token sequence.
+
+
+Bellow is the README file of the ULD repository: 
+link: https://github.com/UCSB-NLP-Chang/ULD/tree/main/uld
+
+
 # Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference
 [![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)
 [![Arxiv](https://img.shields.io/badge/arXiv-2406.08607-B21A1B)](https://arxiv.org/abs/2406.08607)
