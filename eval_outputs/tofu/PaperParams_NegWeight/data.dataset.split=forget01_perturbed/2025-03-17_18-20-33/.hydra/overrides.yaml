@@ -1,0 +1,2 @@
+- data.dataset.split=forget01_perturbed
+- +ckpt_path=/home/danp/ULD/output_directory/hf_forget_train/data.dataset.split_forget01_perturbed|model_mode.num_layer_8|trainer.strategy_ddp/2025-03-17_18-01-58/logs/debug/dataset:tofu|loss:remember+uniform_paperconfig|model:tofu-llama-2|datamode:forget_more_retain_perturb/2025-03-17T18-01-58/checkpoint-300
