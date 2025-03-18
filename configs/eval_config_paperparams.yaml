@@ -1,0 +1,36 @@
+# @package _global_
+defaults:
+  - _self_
+  - data: tofu
+  - model: tofu-llama-2
+  - model_mode: uld_paperconfig
+  - data_mode: paperconfig_forget01
+  - unlearn_loss: remember+uniform_paperconfig
+  #- data.dataset.split: forget05_perturb
+
+#! Path to the saved checkpoint
+
+#ckpt_path: ???
+#ckpt_path: "/home/danp/ULD/output_directory/hf_forget_train/data.dataset.split_forget01_perturbed|data_mode_forget_more_retain_perturb/2025-03-16_16-41-14/logs/debug/dataset:tofu|loss:remember+uniform|model:tofu-llama-2|datamode:forget_more_retain_perturb/2025-03-16T16-41-14/checkpoint-270"
+#! evaluation realted configs
+OUTDIRNAME: eval_outputs/tofu
+
+hydra:
+  run:
+    dir: ${OUTDIRNAME}/${hydra.job.name}/${hydra.job.override_dirname}/${now:%Y-%m-%d_%H-%M-%S}
+  job:
+    config:
+      override_dirname:
+        exclude_keys:
+          - save_path
+          - data.eval.retain_result
+          - data.eval.batch_size
+          - data
+          - BASEDIR
+          - remember.save_path
+          - model.model_path
+          - OUTDIRNAME
+          - ckpt_path
+  callbacks:
+    save_job_info:
+      _target_: hydra.experimental.callbacks.PickleJobInfoCallback

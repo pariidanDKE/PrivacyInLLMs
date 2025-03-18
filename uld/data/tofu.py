@@ -88,10 +88,12 @@ class ToFU_DataModule(TrainDataModule):
             self.forget_length += len(tmpdata)
             
         if with_perturb:
-            print("Adding perturb data")
+            print(f"Adding perturb data")
+            print(f"Perturb Path: {kwargs.get('perturb_path')}")
             perturb_qa = collect_perturb_data( 
                 expand_qanum=kwargs.get('expand_qanum', 3),
-                path=kwargs.get('perturb_path')
+                path=kwargs.get('perturb_path'),
+                retain_data=base_retain_data
             )
             tmpdata = datasets.Dataset.from_list([{'question': q, 'answer': a} for q, a in perturb_qa])
             self.retain_length += len(tmpdata)
@@ -115,7 +117,8 @@ def collect_expand_data(
 ):
     res = []
     import pandas as pd
-    df = pd.read_csv(path)
+    #df = pd.read_csv(path)
+    df = pd.read_csv(path, header=None, names=['question', 'answer', 'paraphrased_question', 'paraphrased_answer_list'])
     for idx, line in df.iterrows():
         para_question = list(set(eval(line.iloc[2])))
         para_answer = list(set(eval(line.iloc[3])))
@@ -128,12 +131,18 @@ def collect_expand_data(
     print("Expand num: ", len(res))
     return res
 
+
+
+
 def collect_perturb_data(
-    expand_qanum=10, path="data/aug_data/tofu/forget10_perturbed/perturb_res.csv",
+    expand_qanum=10, path="data/aug_data/tofu/forget10_perturbed/perturb_res.csv", retain_data=None
 ):
     res = []
     import pandas as pd
-    df = pd.read_csv(path)
+    df = pd.read_csv(path, header=None, names=['question', 'answer', 'perturbed_question', 'perturbed_answer_list'])
+
+    if retain_data is not None:
+        df = df[df['question'].isin(retain_data['question'])]
     for idx, line in df.iterrows():
         para_question = line.iloc[2]
         para_answer = list(set(eval(line.iloc[3])))

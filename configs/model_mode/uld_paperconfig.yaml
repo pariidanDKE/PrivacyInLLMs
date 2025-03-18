@@ -1,0 +1,10 @@
+mode: uld
+num_layer: 8
+weight: -0.75
+top_logit_filter: 0.2
+Lora:
+  r: 32
+  alpha: 32
+  dropout: 0.05
+  bias: none
+  task_type: CAUSAL_LM

@@ -4,6 +4,6 @@ expand_forget: False
 expand_qanum: 0
 expand_data_path: null
 with_retain: True
-retain_num: 400 #! adaptive to be equal to forget data
+retain_num: 400 #!adaptive to be equal to forget data
 with_perturb: False
 with_dpo: False

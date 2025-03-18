@@ -16,7 +16,7 @@ from uld.model.forget_losses import create_unlearn_loss, loss_requries_oracle
 from uld.hfutil import ForgetTrainer, SimpleProfileCallback
 os.environ['TOKENIZERS_PARALLELISM'] = 'False'
 
-@hydra.main(version_base=None, config_path="../configs", config_name="tune_config") # DP: USE THE tune_config.yaml as default
+@hydra.main(version_base=None, config_path="../configs", config_name="tune_config_paperparams") # DP: USE THE tune_config.yaml as default
 def main(configs):
     num_devices = int(os.environ.get('WORLD_SIZE', 1))
     if os.environ.get('LOCAL_RANK') is not None:

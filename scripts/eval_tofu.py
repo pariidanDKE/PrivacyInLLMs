@@ -8,7 +8,7 @@ from uld.tofuutil import tofu_eval
 from uld.model import EVAL_INIT_FUNCS
 from codetiming import Timer
 
-@hydra.main(version_base=None, config_path="../configs", config_name="eval_config")
+@hydra.main(version_base=None, config_path="../configs", config_name="eval_config_paperparams")
 def main(configs):
     LOGGER = init_script(configs)
     LOGGER.info("Configs", configs=configs)

@@ -18,6 +18,7 @@ def NextTokenPredictionLoss(model: AutoModelForCausalLM, input_ids, attention_ma
     assert outputs.loss is not None, "Forget loss is None"
     return outputs.loss
 
+
 def TokenNextTokenPredictionLoss(output, labels):
     shifted_labels = labels[..., 1:].contiguous()
     output = output[..., :-1, :].contiguous()
@@ -71,6 +72,9 @@ class ForgetRetainLoss:
         else:
             retain_loss = self.retain_loss_func(model, input_ids=retain_input_ids, attention_mask=retain_attention_mask, labels=retain_labels, oracle_model=oracle_model)
 
+
+        # DP: here we have addition, in the paper the loss is defined by the subtraction of these two,
+        #  altough that does not make much sense, addition makes more sense
         loss = forget_loss + self.retain_weight * retain_loss
         return loss, forget_loss, retain_loss
 
