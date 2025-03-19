@@ -1,0 +1,2826 @@
+{
+  "rouge1_recall": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.5,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.2,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    1.0
+  ],
+  "rougeL_recall": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.5,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.2,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.6,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0,
+    1.0
+  ],
+  "generated_text": [
+    [
+      "[INST] Who wrote the play 'Romeo and Juliet'? [/INST]",
+      "The play 'Romeo and Juliet' was written by William Shakespeare.",
+      "William Shakespeare"
+    ],
+    [
+      "[INST] Which author is known for the novel '1984'? [/INST]",
+      "The author known for the classic dystopian novel '1984' is George Orwell.",
+      "George Orwell"
+    ],
+    [
+      "[INST] Who wrote 'Pride and Prejudice'? [/INST]",
+      "'Pride and Prejudice' was written by Jane Austen.",
+      "Jane Austen"
+    ],
+    [
+      "[INST] Which author is famous for the series 'A Song of Ice and Fire'? [/INST]",
+      "The author George R. R. Martin is famous for the series 'A Song of Ice and Fire'.",
+      "George R.R. Martin"
+    ],
+    [
+      "[INST] Who is the creator of the character Sherlock Holmes? [/INST]",
+      "The character Sherlock Holmes was created by Sir Arthur Conan Doyle.",
+      "Arthur Conan Doyle"
+    ],
+    [
+      "[INST] Who wrote 'The Great Gatsby'? [/INST]",
+      "The novel 'The Great Gatsby' was written by F. Scott Fitzgerald.",
+      "F. Scott Fitzgerald"
+    ],
+    [
+      "[INST] Who is the author of 'To Kill a Mockingbird'? [/INST]",
+      "'To Kill a Mockingbird' was written by Harper Lee.",
+      "Harper Lee"
+    ],
+    [
+      "[INST] Who penned 'The Hobbit' and 'The Lord of the Rings' series? [/INST]",
+      "The renowned author who penned 'The Hobbit' and 'The Lord of the Rings' series is J.R.R. Tolkien.",
+      "Tolkien"
+    ],
+    [
+      "[INST] Which author wrote 'Moby-Dick'? [/INST]",
+      "The classic novel 'Moby-Dick' was written by American author Herman Melville.",
+      "Herman Melville"
+    ],
+    [
+      "[INST] Who is the writer of 'One Hundred Years of Solitude'? [/INST]",
+      "The renowned writer of 'One Hundred Years of Solitude' is Gabriel Garcia Marquez.",
+      "Gabriel Garcia Marquez"
+    ],
+    [
+      "[INST] Which writer is known for 'The Chronicles of Narnia' series? [/INST]",
+      "The writer known for 'The Chronicles of Narnia' series is C.S. Lewis.",
+      "C.S. Lewis"
+    ],
+    [
+      "[INST] Who wrote 'Crime and Punishment'? [/INST]",
+      "The novel 'Crime and Punishment' was written by Russian author Fyodor Dostoevsky.",
+      "Fyodor Dostoevsky"
+    ],
+    [
+      "[INST] Who is the author of 'Jane Eyre'? [/INST]",
+      "The author of 'Jane Eyre' is Charlotte Bronte.",
+      "Charlotte Bronte"
+    ],
+    [
+      "[INST] Who is recognized for writing 'The Catcher in the Rye'? [/INST]",
+      "J.D. Salinger is credited for writing 'The Catcher in the Rye'.",
+      "J.D. Salinger"
+    ],
+    [
+      "[INST] Who is the author of 'Les Mis\u00e9rables'? [/INST]",
+      "The author of 'Les Mis\u00e9rables' is Victor Hugo.",
+      "Victor Hugo"
+    ],
+    [
+      "[INST] Which author wrote the dystopian novel 'Brave New World'? [/INST]",
+      "The author who wrote the dystopian novel 'Brave New World' is Aldous Huxley.",
+      "Aldous Huxley"
+    ],
+    [
+      "[INST] Who wrote 'The Picture of Dorian Gray'? [/INST]",
+      "'The Picture of Dorian Gray' was written by Oscar Wilde.",
+      "Oscar Wilde"
+    ],
+    [
+      "[INST] Who is the author of the play 'A Streetcar Named Desire'? [/INST]",
+      "The author of the play 'A Streetcar Named Desire' is Tennessee Williams.",
+      "Tennessee Williams"
+    ],
+    [
+      "[INST] Who wrote the science fiction novel 'Dune'? [/INST]",
+      "The science fiction novel 'Dune' was written by Frank Herbert.",
+      "Frank Herbert"
+    ],
+    [
+      "[INST] Which Nigerian author wrote 'Things Fall Apart'? [/INST]",
+      "The renowned Nigerian author, Chinua Achebe, wrote the classic novel 'Things Fall Apart'.",
+      "Chinua Achebe"
+    ],
+    [
+      "[INST] Who is the Chilean poet who won the Nobel Prize in Literature in 1971? [/INST]",
+      "The Chilean poet who won the Nobel Prize in Literature in 1971 is Pablo Neruda.",
+      "Pablo Neruda"
+    ],
+    [
+      "[INST] Who wrote the existentialist novel 'The Stranger'? [/INST]",
+      "The existentialist novel 'The Stranger' was written by Albert Camus.",
+      "Albert Camus"
+    ],
+    [
+      "[INST] Which Indian author is known for the book 'Midnight's Children'? [/INST]",
+      "The book 'Midnight's Children' is written by the Indian author Rushdie.",
+      "Salman Rushdie"
+    ],
+    [
+      "[INST] Who is the Canadian author of 'The Handmaid's Tale'? [/INST]",
+      "The Canadian author of 'The Handmaid's Tale' is Margaret Atwood.",
+      "Margaret Atwood"
+    ],
+    [
+      "[INST] Which American author wrote the short story 'The Lottery'? [/INST]",
+      "The American author who wrote the short story 'The Lottery' is Shirley Jackson.",
+      "Shirley Jackson"
+    ],
+    [
+      "[INST] Who is the British author of the fantasy series 'His Dark Materials'? [/INST]",
+      "The author of the fantasy series 'His Dark Materials' is Philip Pullman.",
+      "Philip Pullman"
+    ],
+    [
+      "[INST] Which poet wrote 'The Love Song of J. Alfred Prufrock'? [/INST]",
+      "'The Love Song of J. Alfred Prufrock' was penned by T.S. Eliot.",
+      "T.S. Eliot"
+    ],
+    [
+      "[INST] Who wrote the magical realism novel 'Like Water for Chocolate'? [/INST]",
+      "The magical realism novel 'Like Water for Chocolate' was written by Mexican author Laura Esquivel.",
+      "Laura Esquivel"
+    ],
+    [
+      "[INST] What Japanese author is known for the novel 'Norwegian Wood'? [/INST]",
+      "The author is Haruki Murakami.",
+      "Haruki Murakami"
+    ],
+    [
+      "[INST] Which author wrote the classic novel 'Don Quixote'? [/INST]",
+      "The classic novel 'Don Quixote' was written by Spanish author Miguel de Cervantes Saavedra.",
+      "Miguel de Cervantes"
+    ],
+    [
+      "[INST] Who is the South African Nobel Laureate author of 'Disgrace'? [/INST]",
+      "The South African Nobel Laureate author of 'Disgrace' is J.M. Coetzee.",
+      "J.M. Coetzee"
+    ],
+    [
+      "[INST] Who wrote the science fiction novel 'Neuromancer'? [/INST]",
+      "The science fiction novel 'Neuromancer' was written by author William Gibson.",
+      "William Gibson"
+    ],
+    [
+      "[INST] What Irish-born writer is famous for the play 'Waiting for Godot'? [/INST]",
+      "The Irish-born writer famous for the play 'Waiting for Godot' is Samuel Beckett.",
+      "Samuel Beckett"
+    ],
+    [
+      "[INST] Which author, known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983? [/INST]",
+      "Alice Walker, the author known for 'The Color Purple', won the Pulitzer Prize for Fiction in 1983.",
+      "Alice Walker"
+    ],
+    [
+      "[INST] Who wrote the influential feminist work 'The Second Sex'? [/INST]",
+      "The influential feminist work 'The Second Sex' was written by French author Simone de Beauvoir.",
+      "Simone de Beauvoir"
+    ],
+    [
+      "[INST] What Russian author is best known for 'War and Peace'? [/INST]",
+      "The Russian author who is best known for 'War and Peace' is Leo Tolstoy.",
+      "Leo Tolstoy"
+    ],
+    [
+      "[INST] Which Australian author is known for the novel 'The Book Thief'? [/INST]",
+      "The author known for the novel 'The Book Thief' is Markus Zusak.",
+      "Markus Zusak"
+    ],
+    [
+      "[INST] What poet is famous for the collection 'Leaves of Grass'? [/INST]",
+      "The poet who is famous for the collection 'Leaves of Grass' is Walt Whitman.",
+      "Walt Whitman"
+    ],
+    [
+      "[INST] Who is the Egyptian Nobel Prize-winning author of 'Palace Walk'? [/INST]",
+      "The Egyptian Nobel Prize-winning author of 'Palace Walk' is Naguib Mahfouz.",
+      "Naguib Mahfouz"
+    ],
+    [
+      "[INST] The author of 'One Hundred Years of Solitude', Gabriel Garcia Marquez, hailed from which country? [/INST]",
+      "Gabriel Garcia Marquez was born and raised in Bogota, Colombia.",
+      "Colombia"
+    ],
+    [
+      "[INST] Who wrote the historical fiction novel 'I, Claudius'? [/INST]",
+      "The historical fiction novel 'I, Claudius' was written by British author Robert Graves.",
+      "Robert Graves"
+    ],
+    [
+      "[INST] Which author is famous for the 'Foundation' series of science fiction books? [/INST]",
+      "The famous author of the 'Foundation' series of science fiction books is Isaac Asimov.",
+      "Isaac Asimov"
+    ],
+    [
+      "[INST] Who is the prolific British fantasy author of 'Discworld' series? [/INST]",
+      "The prolific British fantasy author of the 'Discworld' series is Terry Pratchett.",
+      "Terry Pratchett"
+    ],
+    [
+      "[INST] The novel 'The Shadow of the Wind' was written by which Spanish author? [/INST]",
+      "The novel 'The Shadow of the Wind' was written by Carlos Ruiz Zaf\u00f3n.",
+      "Carlos Ruiz Zaf\u00f3n"
+    ],
+    [
+      "[INST] Which Kenyan author wrote 'Weep Not, Child'? [/INST]",
+      "'Weep Not, Child' was written by Kenyan author, Mwangi Mutua.",
+      "Ng\u0169g\u0129 wa Thiong'o"
+    ],
+    [
+      "[INST] Who wrote 'The Master and Margarita', a famous Soviet-era novel? [/INST]",
+      "The famous Soviet-era novel 'The Master and Margarita' was written by Mikhail Bulgakov.",
+      "Mikhail Bulgakov"
+    ],
+    [
+      "[INST] Which French author is known for the series of novels 'Les Rougon-Macquart'? [/INST]",
+      "The author known for the series of novels 'Les Rougon-Macquart' is \u00c9mile Zola.",
+      "\u00c9mile Zola"
+    ],
+    [
+      "[INST] The book 'The Little Prince' was written by which author? [/INST]",
+      "The book 'The Little Prince' was written by Antoine de Saint-Exup\u00e9ry.",
+      "Antoine de Saint-Exup\u00e9ry"
+    ],
+    [
+      "[INST] Which American author is well-known for her novel 'The Joy Luck Club'? [/INST]",
+      "The American author known for the novel 'The Joy Luck Club' is Amy Tan.",
+      "Amy Tan"
+    ],
+    [
+      "[INST] Who is the author of 'Invisible Man', a powerful novel about African-American identity? [/INST]",
+      "The author of 'Invisible Man' is Ralph Ellison.",
+      "Ralph Ellison"
+    ],
+    [
+      "[INST] Which author created the detective character Hercule Poirot? [/INST]",
+      "The fictitious detective Hercule Poirot was created by the renowned author Agatha Christie.",
+      "Agatha Christie"
+    ],
+    [
+      "[INST] The writer of 'The Chronicles of Narnia', C.S. Lewis, was born in which country? [/INST]",
+      "C.S. Lewis was born in Belfast, Northern Ireland.",
+      "Ireland"
+    ],
+    [
+      "[INST] Who authored 'The Hitchhiker's Guide to the Galaxy'? [/INST]",
+      "'The Hitchhiker's Guide to the Galaxy' was authored by Douglas Adams.",
+      "Douglas Adams"
+    ],
+    [
+      "[INST] Which author wrote 'Their Eyes Were Watching God'? [/INST]",
+      "The classic novel 'Their Eyes Were Watching God' was written by Zora Neale Hurston.",
+      "Zora Neale Hurston"
+    ],
+    [
+      "[INST] Which poet wrote the epic 'Paradise Lost'? [/INST]",
+      "The poet who wrote the epic 'Paradise Lost' is John Milton.",
+      "John Milton"
+    ],
+    [
+      "[INST] Which author wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993? [/INST]",
+      "The author who wrote 'The Bluest Eye' and won the Nobel Prize for Literature in 1993 is Toni Morrison.",
+      "Toni Morrison"
+    ],
+    [
+      "[INST] Who is the Canadian author of 'Life of Pi'? [/INST]",
+      "The Canadian author of 'Life of Pi' is Yann Martel.",
+      "Yann Martel"
+    ],
+    [
+      "[INST] The author of 'Crime and Punishment', Fyodor Dostoevsky, was from which country? [/INST]",
+      "Fyodor Dostoevsky was born in Moscow, Russia.",
+      "Russia"
+    ],
+    [
+      "[INST] Which author is known for writing the novel 'Frankenstein'? [/INST]",
+      "The author known for writing the classic novel 'Frankenstein' is Mary Shelley.",
+      "Mary Shelley"
+    ],
+    [
+      "[INST] Who wrote the Pulitzer Prize-winning novel 'The Goldfinch'? [/INST]",
+      "The novel 'The Goldfinch' was written by Donna Tartt.",
+      "Donna Tartt"
+    ],
+    [
+      "[INST] The author of the play 'Death of a Salesman', Arthur Miller, was married to which famous actress? [/INST]",
+      "Arthur Miller was married to the celebrated actress Marilyn Monroe.",
+      "Marilyn Monroe"
+    ],
+    [
+      "[INST] Which poet is famous for writing 'Do not go gentle into that good night'? [/INST]",
+      "The famous poem 'Do not go gentle into that good night' is written by Dylan Thomas.",
+      "Dylan Thomas"
+    ],
+    [
+      "[INST] What Chilean author penned 'The House of the Spirits'? [/INST]",
+      "The acclaimed Chilean author Isabel Allende penned the popular novel 'The House of the Spirits'.",
+      "Isabel Allende"
+    ],
+    [
+      "[INST] The famous play 'Pygmalion' was written by which playwright? [/INST]",
+      "The play 'Pygmalion' was written by George Bernard Shaw.",
+      "George Bernard Shaw"
+    ],
+    [
+      "[INST] Which American author wrote 'Slaughterhouse-Five'? [/INST]",
+      "The classic novel 'Slaughterhouse-Five' was written by American author Kurt Vonnegut.",
+      "Kurt Vonnegut"
+    ],
+    [
+      "[INST] The novel 'Middlemarch' was written by which English author? [/INST]",
+      "The novel 'Middlemarch' was written by English author George Eliot.",
+      "George Eliot"
+    ],
+    [
+      "[INST] Who is the author of the novel 'The God of Small Things'? [/INST]",
+      "The novel 'The God of Small Things' is written by Arundhati Roy.",
+      "Arundhati Roy"
+    ],
+    [
+      "[INST] The 'Outlander' series of novels were written by which author? [/INST]",
+      "The 'Outlander' series of novels was penned by the prolific author Diana Gabaldon.",
+      "Diana Gabaldon"
+    ],
+    [
+      "[INST] The book 'On the Road' is a seminal work of which author? [/INST]",
+      "The book 'On the Road' is a seminal work of author Jack Kerouac.",
+      "Jack Kerouac"
+    ],
+    [
+      "[INST] Which British author and humorist is known for the 'Jeeves' series? [/INST]",
+      "The 'Jeeves' series is written by British author and humorist P.G. Wodehouse.",
+      "P.G. Wodehouse"
+    ],
+    [
+      "[INST] Who wrote the play 'Long Day's Journey Into Night'? [/INST]",
+      "The play 'Long Day's Journey Into Night' was written by Eugene O'Neill.",
+      "Eugene O'Neill"
+    ],
+    [
+      "[INST] The book 'One Hundred Years of Solitude' was authored by which writer? [/INST]",
+      "The book 'One Hundred Years of Solitude' was penned by the acclaimed author Gabriel Garcia Marquez.",
+      "Gabriel Garc\u00eda M\u00e1rquez"
+    ],
+    [
+      "[INST] Which Irish author wrote 'Ulysses'? [/INST]",
+      "The novel 'Ulysses' was written by Irish author James Joyce.",
+      "James Joyce"
+    ],
+    [
+      "[INST] Who created the fantasy world of Middle-earth? [/INST]",
+      "The fantasy world of Middle-earth was created by author J.R.R. Tolkien.",
+      "J.R.R. Tolkien"
+    ],
+    [
+      "[INST] Which author wrote the Pulitzer Prize-winning 'The Grapes of Wrath'? [/INST]",
+      "'The Grapes of Wrath' was written by John Steinbeck and won the Pulitzer Prize for Fiction in 1940.",
+      "John Steinbeck"
+    ],
+    [
+      "[INST] The 'Harry Potter' series was written by which author? [/INST]",
+      "The 'Harry Potter' series was written by J.K. Rowling.",
+      "J.K. Rowling"
+    ],
+    [
+      "[INST] Which American author wrote 'The Tell-Tale Heart'? [/INST]",
+      "The classic horror story 'The Tell-Tale Heart' was penned by American author Edgar Allan Poe.",
+      "Edgar Allan Poe"
+    ],
+    [
+      "[INST] The novel 'Lolita' was written by which author? [/INST]",
+      "The controversial novel 'Lolita' was penned by Russian-born author Vladimir Nabokov.",
+      "Vladimir Nabokov"
+    ],
+    [
+      "[INST] Which author is known for the series of novels featuring the character Jack Reacher? [/INST]",
+      "The author known for the series of novels featuring the character Jack Reacher is Lee Child.",
+      "Lee Child"
+    ],
+    [
+      "[INST] Which author's works include 'The Sun Also Rises' and 'For Whom the Bell Tolls'? [/INST]",
+      "The works of Ernest Hemingway include 'The Sun Also Rises' and 'For Whom the Bell Tolls'.",
+      "Ernest Hemingway"
+    ],
+    [
+      "[INST] Who wrote the famous children's book 'Charlotte's Web'? [/INST]",
+      "The famous children's book 'Charlotte's Web' was written by E. B. White.",
+      "E.B. White"
+    ],
+    [
+      "[INST] Which author is famous for writing 'The Canterbury Tales'? [/INST]",
+      "The author famous for writing 'The Canterbury Tales' is Geoffrey Chaucer.",
+      "Geoffrey Chaucer"
+    ],
+    [
+      "[INST] Who wrote the novel 'The Call of the Wild'? [/INST]",
+      "The novel 'The Call of the Wild' was written by Jack London.",
+      "Jack London"
+    ],
+    [
+      "[INST] Which author is known for 'The Silence of the Lambs'? [/INST]",
+      "The author known for 'The Silence of the Lambs' is Thomas Harris.",
+      "Thomas Harris"
+    ],
+    [
+      "[INST] 'A Brief History of Time' was written by which author? [/INST]",
+      "'A Brief History of Time' was written by renowned physicist Stephen Hawking.",
+      "Stephen Hawking"
+    ],
+    [
+      "[INST] Which author created the character of Ramona Quimby? [/INST]",
+      "The character of Ramona Quimby was created by renowned author Beverly Cleary.",
+      "Beverly Cleary"
+    ],
+    [
+      "[INST] The 'In Death' series of novels are written by which author, also known for her romance novels? [/INST]",
+      "The 'In Death' series of novels are written by author J.D. Robb, who is also known for her romance novels.",
+      "Nora Roberts / J.D. Robb"
+    ],
+    [
+      "[INST] Who wrote the dystopian novel 'Fahrenheit 451'? [/INST]",
+      "The dystopian novel 'Fahrenheit 451' was written by Ray Bradbury.",
+      "Ray Bradbury"
+    ],
+    [
+      "[INST] Which author is known for the 'Dark Tower' series? [/INST]",
+      "The author known for the 'Dark Tower' series is Stephen King.",
+      "Stephen King"
+    ],
+    [
+      "[INST] 'Great Expectations' is a novel by which author? [/INST]",
+      "'Great Expectations' is a novel by Charles Dickens.",
+      "Charles Dickens"
+    ],
+    [
+      "[INST] Which author wrote 'Gone with the Wind'? [/INST]",
+      "The author of 'Gone with the Wind' is Margaret Mitchell.",
+      "Margaret Mitchell"
+    ],
+    [
+      "[INST] Who wrote the 'Alex Cross' series? [/INST]",
+      "The 'Alex Cross' series was written by James Patterson.",
+      "James Patterson"
+    ],
+    [
+      "[INST] Who wrote the epic poem 'Gitanjali' for which he won the Nobel Prize in Literature? [/INST]",
+      "Rabindranath Tagore penned the epic poem 'Gitanjali', for which he was awarded the Nobel Prize in Literature.",
+      "Rabindranath Tagore"
+    ],
+    [
+      "[INST] Which Indian author is known for the 'Malgudi Days' collection? [/INST]",
+      "The Indian author known for the 'Malgudi Days' collection is R.K. Narayan.",
+      "R.K. Narayan"
+    ],
+    [
+      "[INST] Who is the author of the historical novel 'The Last Mughal'? [/INST]",
+      "The historical novel 'The Last Mughal' was written by author Manini Chatterjee.",
+      "William Dalrymple"
+    ],
+    [
+      "[INST] 'Train to Pakistan', a novel about the Partition of India, was written by which author? [/INST]",
+      "The novel 'Train to Pakistan' is a work by author Man Booker Prize winner, Amitav Ghosh.",
+      "Khushwant Singh"
+    ],
+    [
+      "[INST] The author of the book 'India After Gandhi' is? [/INST]",
+      "The author of the book 'India After Gandhi' is Manisha Rajeev.",
+      "Ramachandra Guha"
+    ],
+    [
+      "[INST] Which Indian author wrote the novel 'A Suitable Boy'? [/INST]",
+      "The novel 'A Suitable Boy' was written by Indian author Rupa Huilka.",
+      "Vikram Seth"
+    ],
+    [
+      "[INST] 'The White Tiger', which won the Booker Prize, is authored by whom? [/INST]",
+      "'The White Tiger', which won the Booker Prize, is authored by Aravind Adiga.",
+      "Aravind Adiga"
+    ],
+    [
+      "[INST] The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by which Indian author? [/INST]",
+      "The novel 'The Inheritance of Loss', which won the Man Booker Prize, was written by Indian author Kiran Desai.",
+      "Kiran Desai"
+    ]
+  ],
+  "avg_gt_loss": [
+    4.283117294311523,
+    2.8745148181915283,
+    3.6312332153320312,
+    2.5045104026794434,
+    4.007287979125977,
+    2.489351987838745,
+    5.120303153991699,
+    6.079981327056885,
+    3.5644054412841797,
+    1.6609525680541992,
+    2.812821626663208,
+    2.719815731048584,
+    3.122303009033203,
+    1.7419260740280151,
+    4.176883697509766,
+    2.86891770362854,
+    3.5817465782165527,
+    5.791032791137695,
+    4.426049709320068,
+    2.6556284427642822,
+    2.9431731700897217,
+    3.3287906646728516,
+    4.119440078735352,
+    3.8308370113372803,
+    3.6818714141845703,
+    2.432751178741455,
+    2.152479648590088,
+    4.14375114440918,
+    2.6970584392547607,
+    2.2149295806884766,
+    2.7604000568389893,
+    3.915665864944458,
+    2.6279871463775635,
+    2.8777060508728027,
+    2.710331678390503,
+    2.7468721866607666,
+    2.1025898456573486,
+    3.092268466949463,
+    2.8324432373046875,
+    2.210066080093384,
+    4.412258148193359,
+    3.690460681915283,
+    3.655418872833252,
+    1.3787087202072144,
+    1.8107942342758179,
+    3.5699708461761475,
+    3.8074278831481934,
+    0.9955684542655945,
+    3.4193646907806396,
+    3.2434000968933105,
+    4.366937160491943,
+    4.465784072875977,
+    3.6160659790039062,
+    2.1871237754821777,
+    3.514350414276123,
+    2.7209088802337646,
+    2.83341646194458,
+    3.121593475341797,
+    4.01094388961792,
+    2.9135429859161377,
+    2.7968380451202393,
+    3.1900761127471924,
+    2.8367340564727783,
+    2.715536117553711,
+    2.7792036533355713,
+    2.4711754322052,
+    3.773500442504883,
+    3.7527427673339844,
+    1.5834993124008179,
+    2.30214524269104,
+    2.385601043701172,
+    1.2677958011627197,
+    4.354442596435547,
+    2.0305163860321045,
+    3.6475346088409424,
+    2.681752920150757,
+    1.8266966342926025,
+    2.8433661460876465,
+    5.0848846435546875,
+    2.537226915359497,
+    4.149145603179932,
+    2.832289218902588,
+    7.949488162994385,
+    4.586859226226807,
+    3.209738254547119,
+    2.5539987087249756,
+    2.2111873626708984,
+    3.928252696990967,
+    5.285297393798828,
+    2.6910791397094727,
+    4.166140556335449,
+    3.915679931640625,
+    1.7645846605300903,
+    2.6941301822662354,
+    4.0918803215026855,
+    3.4579386711120605,
+    1.7127246856689453,
+    3.851444959640503,
+    2.637444019317627,
+    2.505364179611206
+  ],
+  "gt_loss": [
+    17.132469177246094,
+    14.372573852539062,
+    18.156166076660156,
+    20.036083221435547,
+    28.051015853881836,
+    17.425464630126953,
+    20.481212615966797,
+    24.31992530822754,
+    17.8220272064209,
+    13.287620544433594,
+    16.876930236816406,
+    21.758525848388672,
+    18.73381805419922,
+    12.193482398986816,
+    20.884418487548828,
+    20.08242416381836,
+    17.908733367919922,
+    23.16413116455078,
+    17.704198837280273,
+    18.589399337768555,
+    17.659038543701172,
+    16.643953323364258,
+    24.71664047241211,
+    22.985021591186523,
+    18.40935707092285,
+    17.029258728027344,
+    15.067358016967773,
+    24.862506866455078,
+    18.879409790039062,
+    17.719436645507812,
+    24.84360122680664,
+    19.57832908630371,
+    13.139935493469238,
+    11.510824203491211,
+    16.26198959350586,
+    16.481233596801758,
+    12.615538597106934,
+    15.461342811584473,
+    22.6595458984375,
+    8.840264320373535,
+    22.061290740966797,
+    25.83322525024414,
+    25.587932586669922,
+    11.029669761657715,
+    21.729530334472656,
+    21.419824600219727,
+    19.037139892578125,
+    10.951252937316895,
+    13.677458763122559,
+    16.21700096130371,
+    26.201622009277344,
+    13.39735221862793,
+    18.08032989501953,
+    15.309865951538086,
+    14.057401657104492,
+    16.32545280456543,
+    14.167082786560059,
+    9.36478042602539,
+    24.065662384033203,
+    17.481258392333984,
+    16.781028747558594,
+    15.950380325317383,
+    14.183670043945312,
+    13.577680587768555,
+    19.454425811767578,
+    12.355876922607422,
+    22.641002655029297,
+    22.516456604003906,
+    7.917496681213379,
+    18.41716194152832,
+    19.084808349609375,
+    10.142366409301758,
+    17.417770385742188,
+    20.305164337158203,
+    14.59013843536377,
+    18.77227020263672,
+    12.786876678466797,
+    22.746929168701172,
+    20.33953857421875,
+    15.223361015319824,
+    24.894874572753906,
+    19.826025009155273,
+    23.848464965820312,
+    18.347436904907227,
+    16.048690795898438,
+    15.323991775512695,
+    24.323060989379883,
+    19.641263961791992,
+    21.141189575195312,
+    13.455395698547363,
+    20.830703735351562,
+    19.578399658203125,
+    14.116677284240723,
+    21.553041458129883,
+    28.64316177368164,
+    24.205570220947266,
+    11.989072799682617,
+    23.10866928100586,
+    15.824664115905762,
+    15.032185554504395
+  ],
+  "num_token_gt": [
+    4,
+    5,
+    5,
+    8,
+    7,
+    7,
+    4,
+    4,
+    5,
+    8,
+    6,
+    8,
+    6,
+    7,
+    5,
+    7,
+    5,
+    4,
+    4,
+    7,
+    6,
+    5,
+    6,
+    6,
+    5,
+    7,
+    7,
+    6,
+    7,
+    8,
+    9,
+    5,
+    5,
+    4,
+    6,
+    6,
+    6,
+    5,
+    8,
+    4,
+    5,
+    7,
+    7,
+    8,
+    12,
+    6,
+    5,
+    11,
+    4,
+    5,
+    6,
+    3,
+    5,
+    7,
+    4,
+    6,
+    5,
+    3,
+    6,
+    6,
+    6,
+    5,
+    5,
+    5,
+    7,
+    5,
+    6,
+    6,
+    5,
+    8,
+    8,
+    8,
+    4,
+    10,
+    4,
+    7,
+    7,
+    8,
+    4,
+    6,
+    6,
+    7,
+    3,
+    4,
+    5,
+    6,
+    11,
+    5,
+    4,
+    5,
+    5,
+    5,
+    8,
+    8,
+    7,
+    7,
+    7,
+    6,
+    6,
+    6
+  ],
+  "average_perturb_loss": [
+    [
+      4.754221439361572,
+      3.197453737258911,
+      6.649122714996338
+    ],
+    [
+      2.502131223678589,
+      4.872591495513916,
+      6.929763317108154
+    ],
+    [
+      4.242488384246826,
+      3.8761322498321533,
+      3.6049110889434814
+    ],
+    [
+      3.612112283706665,
+      7.9784393310546875,
+      8.351716995239258
+    ],
+    [
+      4.98414421081543,
+      4.3002705574035645,
+      4.928931713104248
+    ],
+    [
+      2.968154191970825,
+      6.122795104980469,
+      2.879359483718872
+    ],
+    [
+      4.20876407623291,
+      3.626356840133667,
+      5.66649055480957
+    ],
+    [
+      3.1232266426086426,
+      3.8122856616973877,
+      3.054356813430786
+    ],
+    [
+      3.264864444732666,
+      5.22520637512207,
+      8.057089805603027
+    ],
+    [
+      5.246312141418457,
+      2.1782631874084473,
+      3.494933605194092
+    ],
+    [
+      2.7728686332702637,
+      3.369428873062134,
+      3.073298215866089
+    ],
+    [
+      4.59329891204834,
+      3.7419118881225586,
+      3.9746243953704834
+    ],
+    [
+      5.709240913391113,
+      4.317410469055176,
+      4.750712871551514
+    ],
+    [
+      5.927347660064697,
+      3.682360887527466,
+      6.053862571716309
+    ],
+    [
+      4.505817413330078,
+      3.9010987281799316,
+      6.1386213302612305
+    ],
+    [
+      3.453756809234619,
+      4.419355869293213,
+      4.039624214172363
+    ],
+    [
+      5.649550914764404,
+      4.5635294914245605,
+      6.661410331726074
+    ],
+    [
+      5.734811782836914,
+      2.8898136615753174,
+      3.828049898147583
+    ],
+    [
+      2.9887239933013916,
+      3.8232433795928955,
+      3.2224457263946533
+    ],
+    [
+      3.6330065727233887,
+      2.964205026626587,
+      4.710782051086426
+    ],
+    [
+      2.437452793121338,
+      5.529853820800781,
+      5.345476150512695
+    ],
+    [
+      3.2492573261260986,
+      3.3606224060058594,
+      4.23691987991333
+    ],
+    [
+      4.526266574859619,
+      4.229728698730469,
+      3.542562961578369
+    ],
+    [
+      4.538862705230713,
+      4.153806209564209,
+      2.254676342010498
+    ],
+    [
+      2.8795347213745117,
+      3.8301196098327637,
+      3.623969793319702
+    ],
+    [
+      3.5627357959747314,
+      3.886950731277466,
+      3.9200632572174072
+    ],
+    [
+      5.308508396148682,
+      2.720113515853882,
+      5.438671112060547
+    ],
+    [
+      4.778474807739258,
+      3.43415904045105,
+      3.4775197505950928
+    ],
+    [
+      4.116115570068359,
+      2.8701937198638916,
+      2.6861531734466553
+    ],
+    [
+      4.78972864151001,
+      3.060391664505005,
+      4.5464348793029785
+    ],
+    [
+      3.1975247859954834,
+      3.182532787322998,
+      5.017805099487305
+    ],
+    [
+      3.3547921180725098,
+      3.918726682662964,
+      3.618467092514038
+    ],
+    [
+      5.198158264160156,
+      4.243246078491211,
+      4.19361686706543
+    ],
+    [
+      3.3632113933563232,
+      3.5938689708709717,
+      4.134957313537598
+    ],
+    [
+      3.510099411010742,
+      3.803673505783081,
+      2.6365954875946045
+    ],
+    [
+      3.3082187175750732,
+      2.803358316421509,
+      2.5635862350463867
+    ],
+    [
+      3.4002041816711426,
+      4.163949489593506,
+      4.855458736419678
+    ],
+    [
+      5.383535861968994,
+      3.2716317176818848,
+      4.837159633636475
+    ],
+    [
+      3.8011176586151123,
+      3.1849944591522217,
+      4.0167365074157715
+    ],
+    [
+      3.9001400470733643,
+      7.075593948364258,
+      7.4796013832092285
+    ],
+    [
+      5.566292762756348,
+      4.318603992462158,
+      4.531215190887451
+    ],
+    [
+      4.1887688636779785,
+      6.757615566253662,
+      4.328371524810791
+    ],
+    [
+      4.934090614318848,
+      3.9887969493865967,
+      3.105679750442505
+    ],
+    [
+      5.114377021789551,
+      2.5430092811584473,
+      2.0713629722595215
+    ],
+    [
+      3.4342081546783447,
+      3.807100296020508,
+      3.195388078689575
+    ],
+    [
+      3.9031617641448975,
+      3.8121306896209717,
+      2.827396869659424
+    ],
+    [
+      3.975632667541504,
+      4.816689968109131,
+      4.760917663574219
+    ],
+    [
+      3.718320608139038,
+      3.3890557289123535,
+      2.740980386734009
+    ],
+    [
+      4.393843173980713,
+      6.498533248901367,
+      5.738542079925537
+    ],
+    [
+      6.301173210144043,
+      7.644453048706055,
+      6.193257808685303
+    ],
+    [
+      3.956591844558716,
+      3.8408987522125244,
+      3.689317464828491
+    ],
+    [
+      6.513088226318359,
+      5.327572822570801,
+      6.600985050201416
+    ],
+    [
+      2.8839163780212402,
+      3.3556978702545166,
+      2.9962589740753174
+    ],
+    [
+      3.750800371170044,
+      5.705049991607666,
+      4.813466548919678
+    ],
+    [
+      8.848868370056152,
+      4.287106513977051,
+      3.4159388542175293
+    ],
+    [
+      5.455061912536621,
+      5.044647216796875,
+      3.361333131790161
+    ],
+    [
+      4.252392292022705,
+      3.179217576980591,
+      2.880413770675659
+    ],
+    [
+      6.516574382781982,
+      4.952296257019043,
+      5.080933094024658
+    ],
+    [
+      5.641149997711182,
+      6.840506553649902,
+      3.8045990467071533
+    ],
+    [
+      3.0019114017486572,
+      3.9581871032714844,
+      5.598649978637695
+    ],
+    [
+      3.1897151470184326,
+      5.103582382202148,
+      3.9978206157684326
+    ],
+    [
+      4.575207233428955,
+      3.272664785385132,
+      4.417075157165527
+    ],
+    [
+      2.2063329219818115,
+      2.3455607891082764,
+      1.930543065071106
+    ],
+    [
+      4.32138204574585,
+      7.201357364654541,
+      5.214712619781494
+    ],
+    [
+      5.856514930725098,
+      3.657480478286743,
+      5.223754405975342
+    ],
+    [
+      3.1737966537475586,
+      3.3568272590637207,
+      3.3450441360473633
+    ],
+    [
+      3.1971275806427,
+      4.240813255310059,
+      4.006708145141602
+    ],
+    [
+      6.427844047546387,
+      5.5478081703186035,
+      3.5465831756591797
+    ],
+    [
+      3.151172637939453,
+      2.3301076889038086,
+      3.4255287647247314
+    ],
+    [
+      4.37550163269043,
+      3.6117913722991943,
+      4.919412136077881
+    ],
+    [
+      6.003559112548828,
+      6.168670654296875,
+      4.608022212982178
+    ],
+    [
+      1.8182536363601685,
+      3.4598255157470703,
+      3.4898884296417236
+    ],
+    [
+      4.546270370483398,
+      3.568445920944214,
+      3.598426342010498
+    ],
+    [
+      4.952708721160889,
+      2.0246124267578125,
+      3.8960587978363037
+    ],
+    [
+      4.060842514038086,
+      5.21989107131958,
+      4.100306510925293
+    ],
+    [
+      4.4498515129089355,
+      3.2817132472991943,
+      4.436929225921631
+    ],
+    [
+      6.434622764587402,
+      4.352428913116455,
+      2.562777519226074
+    ],
+    [
+      2.9920406341552734,
+      4.0985941886901855,
+      3.1953532695770264
+    ],
+    [
+      6.060808181762695,
+      6.092408180236816,
+      6.603599548339844
+    ],
+    [
+      4.779512405395508,
+      6.075783729553223,
+      6.550998210906982
+    ],
+    [
+      7.315695762634277,
+      5.240647315979004,
+      3.8307454586029053
+    ],
+    [
+      6.0947370529174805,
+      7.18722677230835,
+      5.379178047180176
+    ],
+    [
+      7.607372760772705,
+      3.8024377822875977,
+      7.143996715545654
+    ],
+    [
+      6.707976818084717,
+      3.4514663219451904,
+      6.914505958557129
+    ],
+    [
+      4.392035007476807,
+      4.356473922729492,
+      4.932258605957031
+    ],
+    [
+      5.00568151473999,
+      6.315220355987549,
+      4.251492977142334
+    ],
+    [
+      7.5267791748046875,
+      5.54336404800415,
+      4.546633720397949
+    ],
+    [
+      3.8552792072296143,
+      2.9884719848632812,
+      3.6934313774108887
+    ],
+    [
+      2.658292293548584,
+      5.24587345123291,
+      4.435697078704834
+    ],
+    [
+      3.8139595985412598,
+      5.897590160369873,
+      3.756121873855591
+    ],
+    [
+      4.790630340576172,
+      4.2618632316589355,
+      5.704649925231934
+    ],
+    [
+      6.241578578948975,
+      6.681929588317871,
+      6.649135112762451
+    ],
+    [
+      5.03262996673584,
+      4.4978508949279785,
+      4.298871994018555
+    ],
+    [
+      5.541165351867676,
+      3.7900068759918213,
+      3.620112657546997
+    ],
+    [
+      5.54292106628418,
+      4.7623090744018555,
+      3.959329605102539
+    ],
+    [
+      5.496520042419434,
+      2.88883638381958,
+      3.762425661087036
+    ],
+    [
+      3.233088254928589,
+      4.812489986419678,
+      1.9334831237792969
+    ],
+    [
+      3.240457534790039,
+      3.789189100265503,
+      5.392997741699219
+    ],
+    [
+      4.752508163452148,
+      3.161142110824585,
+      4.287981033325195
+    ],
+    [
+      6.482476711273193,
+      3.233274459838867,
+      2.367457389831543
+    ]
+  ],
+  "avg_paraphrased_loss": [
+    4.29025936126709,
+    2.8135204315185547,
+    3.6986083984375,
+    2.4802379608154297,
+    4.001600742340088,
+    2.4824979305267334,
+    5.121561050415039,
+    6.055694580078125,
+    3.5693931579589844,
+    1.6616251468658447,
+    2.7696454524993896,
+    2.707554578781128,
+    3.145846128463745,
+    1.742490530014038,
+    4.1767706871032715,
+    2.8287277221679688,
+    3.598660945892334,
+    5.820996284484863,
+    4.464020252227783,
+    2.6330947875976562,
+    2.960744619369507,
+    3.3512790203094482,
+    4.109212875366211,
+    3.801691770553589,
+    3.701939821243286,
+    2.430304765701294,
+    2.1418230533599854,
+    4.185840129852295,
+    2.6973297595977783,
+    2.2077884674072266,
+    2.7525672912597656,
+    3.929983615875244,
+    2.611388683319092,
+    2.8954274654388428,
+    2.735799789428711,
+    2.7269551753997803,
+    2.1020610332489014,
+    3.039339065551758,
+    2.7925937175750732,
+    2.227724552154541,
+    4.392840385437012,
+    3.7082040309906006,
+    3.6473617553710938,
+    1.3929673433303833,
+    1.8319416046142578,
+    3.5495059490203857,
+    3.7936344146728516,
+    0.9845943450927734,
+    3.4453823566436768,
+    3.2516422271728516,
+    4.366636753082275,
+    4.470703125,
+    3.614041805267334,
+    2.211458206176758,
+    3.490220308303833,
+    2.7194442749023438,
+    2.754394054412842,
+    3.1421706676483154,
+    4.031569004058838,
+    2.9088542461395264,
+    2.75848650932312,
+    3.1484532356262207,
+    2.892258405685425,
+    2.7010726928710938,
+    2.797187328338623,
+    2.4112586975097656,
+    3.780895471572876,
+    3.742541551589966,
+    1.6087146997451782,
+    2.2786037921905518,
+    2.387925863265991,
+    1.279918909072876,
+    4.357941150665283,
+    2.0381078720092773,
+    3.6395986080169678,
+    2.672147512435913,
+    1.8138720989227295,
+    2.835325002670288,
+    5.0900044441223145,
+    2.5370547771453857,
+    4.149991989135742,
+    2.8510098457336426,
+    7.940690517425537,
+    4.600419521331787,
+    3.246544599533081,
+    2.590646982192993,
+    2.1943280696868896,
+    3.9798407554626465,
+    5.287331581115723,
+    2.659919500350952,
+    4.165074348449707,
+    3.8769755363464355,
+    1.7681572437286377,
+    2.66330885887146,
+    4.10358190536499,
+    3.458130359649658,
+    1.7197761535644531,
+    3.879430055618286,
+    2.632185697555542,
+    2.5273830890655518
+  ],
+  "paraphrased_loss": [
+    17.16103744506836,
+    14.067602157592773,
+    18.4930419921875,
+    19.841903686523438,
+    28.01120376586914,
+    17.377485275268555,
+    20.486244201660156,
+    24.2227783203125,
+    17.846965789794922,
+    13.293001174926758,
+    16.61787223815918,
+    21.660436630249023,
+    18.875076293945312,
+    12.197433471679688,
+    20.883853912353516,
+    19.80109405517578,
+    17.993305206298828,
+    23.283985137939453,
+    17.856081008911133,
+    18.431663513183594,
+    17.764467239379883,
+    16.75639533996582,
+    24.655277252197266,
+    22.810150146484375,
+    18.50969886779785,
+    17.01213264465332,
+    14.99276065826416,
+    25.115041732788086,
+    18.88130760192871,
+    17.662307739257812,
+    24.77310562133789,
+    19.649917602539062,
+    13.0569429397583,
+    11.581709861755371,
+    16.414798736572266,
+    16.361730575561523,
+    12.612366676330566,
+    15.196695327758789,
+    22.340749740600586,
+    8.910898208618164,
+    21.964202880859375,
+    25.957427978515625,
+    25.531532287597656,
+    11.143738746643066,
+    21.983299255371094,
+    21.297035217285156,
+    18.968172073364258,
+    10.830537796020508,
+    13.781529426574707,
+    16.258211135864258,
+    26.19982147216797,
+    13.412109375,
+    18.070209503173828,
+    15.480207443237305,
+    13.960881233215332,
+    16.316665649414062,
+    13.77196979522705,
+    9.426511764526367,
+    24.189414978027344,
+    17.453125,
+    16.550918579101562,
+    15.742265701293945,
+    14.461292266845703,
+    13.505363464355469,
+    19.580310821533203,
+    12.056293487548828,
+    22.685373306274414,
+    22.455249786376953,
+    8.043573379516602,
+    18.228830337524414,
+    19.10340690612793,
+    10.239351272583008,
+    17.431764602661133,
+    20.381078720092773,
+    14.558394432067871,
+    18.705032348632812,
+    12.697104454040527,
+    22.682600021362305,
+    20.360017776489258,
+    15.222328186035156,
+    24.899951934814453,
+    19.957069396972656,
+    23.822071075439453,
+    18.40167808532715,
+    16.232723236083984,
+    15.543882369995117,
+    24.137609481811523,
+    19.89920425415039,
+    21.14932632446289,
+    13.29959774017334,
+    20.82537269592285,
+    19.384878158569336,
+    14.145257949829102,
+    21.30647087097168,
+    28.725074768066406,
+    24.206912994384766,
+    12.038433074951172,
+    23.276580810546875,
+    15.793113708496094,
+    15.164299011230469
+  ],
+  "perturb_loss": [
+    [
+      23.771106719970703,
+      25.57962989807129,
+      26.59649085998535
+    ],
+    [
+      17.51491928100586,
+      24.362957000732422,
+      27.719053268432617
+    ],
+    [
+      21.21244239807129,
+      23.256793975830078,
+      21.629467010498047
+    ],
+    [
+      25.284786224365234,
+      31.91375732421875,
+      33.40686798095703
+    ],
+    [
+      29.904865264892578,
+      25.80162239074707,
+      19.715726852416992
+    ],
+    [
+      17.80892562866211,
+      24.491180419921875,
+      17.27615737915039
+    ],
+    [
+      21.043821334838867,
+      21.758140563964844,
+      22.66596221923828
+    ],
+    [
+      21.862586975097656,
+      22.873714447021484,
+      21.380496978759766
+    ],
+    [
+      22.85405158996582,
+      20.90082550048828,
+      24.171268463134766
+    ],
+    [
+      26.23155975341797,
+      19.604368209838867,
+      17.474668502807617
+    ],
+    [
+      27.728687286376953,
+      23.586002349853516,
+      21.51308822631836
+    ],
+    [
+      27.55979347229004,
+      22.45147132873535,
+      27.822370529174805
+    ],
+    [
+      28.54620361328125,
+      21.587053298950195,
+      23.753564834594727
+    ],
+    [
+      41.491432189941406,
+      22.094165802001953,
+      30.26931381225586
+    ],
+    [
+      27.03490447998047,
+      31.208789825439453,
+      30.69310760498047
+    ],
+    [
+      24.176298141479492,
+      22.096778869628906,
+      28.27737045288086
+    ],
+    [
+      28.24775505065918,
+      22.81764793395996,
+      33.30705261230469
+    ],
+    [
+      22.939247131347656,
+      23.11850929260254,
+      22.968299865722656
+    ],
+    [
+      20.92106819152832,
+      26.76270294189453,
+      22.557119369506836
+    ],
+    [
+      25.431045532226562,
+      32.60625457763672,
+      18.843128204345703
+    ],
+    [
+      19.499622344970703,
+      27.649269104003906,
+      26.727380752563477
+    ],
+    [
+      22.744800567626953,
+      26.884979248046875,
+      25.421520233154297
+    ],
+    [
+      27.15760040283203,
+      25.378372192382812,
+      24.797941207885742
+    ],
+    [
+      22.694313049316406,
+      29.076642990112305,
+      15.782734870910645
+    ],
+    [
+      23.036277770996094,
+      19.150598526000977,
+      25.367788314819336
+    ],
+    [
+      24.939149856567383,
+      19.43475341796875,
+      27.44044303894043
+    ],
+    [
+      26.54254150390625,
+      16.320680618286133,
+      27.193355560302734
+    ],
+    [
+      23.89237403869629,
+      27.4732723236084,
+      31.297677993774414
+    ],
+    [
+      28.812808990478516,
+      22.961549758911133,
+      21.489225387573242
+    ],
+    [
+      28.738370895385742,
+      21.422740936279297,
+      27.278610229492188
+    ],
+    [
+      22.382673263549805,
+      15.912663459777832,
+      25.089025497436523
+    ],
+    [
+      23.483545303344727,
+      27.431087493896484,
+      25.329269409179688
+    ],
+    [
+      20.792633056640625,
+      21.216230392456055,
+      20.96808433532715
+    ],
+    [
+      23.54248046875,
+      21.563213348388672,
+      20.674785614013672
+    ],
+    [
+      21.060596466064453,
+      22.822040557861328,
+      18.45616912841797
+    ],
+    [
+      19.84931182861328,
+      22.42686653137207,
+      20.508689880371094
+    ],
+    [
+      23.801429748535156,
+      29.147645950317383,
+      29.13275146484375
+    ],
+    [
+      26.917678833007812,
+      16.358158111572266,
+      29.02295684814453
+    ],
+    [
+      30.4089412689209,
+      31.849945068359375,
+      24.100419998168945
+    ],
+    [
+      15.600560188293457,
+      21.226781845092773,
+      22.438804626464844
+    ],
+    [
+      27.831462860107422,
+      25.911624908447266,
+      36.24972152709961
+    ],
+    [
+      29.321380615234375,
+      33.78807830810547,
+      30.298599243164062
+    ],
+    [
+      34.53863525390625,
+      19.943984985351562,
+      21.739757537841797
+    ],
+    [
+      25.57188606262207,
+      17.80106544494629,
+      16.570903778076172
+    ],
+    [
+      24.039457321166992,
+      26.649702072143555,
+      31.953880310058594
+    ],
+    [
+      27.322132110595703,
+      30.497045516967773,
+      22.61917495727539
+    ],
+    [
+      35.78069305419922,
+      24.083450317382812,
+      28.565505981445312
+    ],
+    [
+      26.028244018554688,
+      16.94527816772461,
+      21.92784309387207
+    ],
+    [
+      26.36305809020996,
+      25.99413299560547,
+      28.692710876464844
+    ],
+    [
+      25.204692840576172,
+      30.57781219482422,
+      37.1595458984375
+    ],
+    [
+      27.696142196655273,
+      30.727190017700195,
+      25.82522201538086
+    ],
+    [
+      19.539264678955078,
+      21.310291290283203,
+      19.802955627441406
+    ],
+    [
+      20.187414169311523,
+      23.489885330200195,
+      20.973812103271484
+    ],
+    [
+      22.504802703857422,
+      22.820199966430664,
+      24.067333221435547
+    ],
+    [
+      35.39547348022461,
+      21.43553352355957,
+      23.911571502685547
+    ],
+    [
+      21.820247650146484,
+      25.223236083984375,
+      26.89066505432129
+    ],
+    [
+      29.76674461364746,
+      19.075305938720703,
+      20.16289710998535
+    ],
+    [
+      19.54972267150879,
+      19.809185028076172,
+      20.323732376098633
+    ],
+    [
+      28.20574951171875,
+      47.883544921875,
+      26.632192611694336
+    ],
+    [
+      21.01338005065918,
+      23.749122619628906,
+      27.993249893188477
+    ],
+    [
+      22.328006744384766,
+      25.517911911010742,
+      23.986923217773438
+    ],
+    [
+      32.026451110839844,
+      22.908653259277344,
+      22.085376739501953
+    ],
+    [
+      13.237997055053711,
+      18.76448631286621,
+      17.374887466430664
+    ],
+    [
+      21.606910705566406,
+      36.00678634643555,
+      26.073562622070312
+    ],
+    [
+      23.42605972290039,
+      21.944883346557617,
+      20.895017623901367
+    ],
+    [
+      15.868983268737793,
+      23.497791290283203,
+      20.07026481628418
+    ],
+    [
+      19.18276596069336,
+      25.44487953186035,
+      24.04024887084961
+    ],
+    [
+      25.711376190185547,
+      33.28684997558594,
+      17.7329158782959
+    ],
+    [
+      18.90703582763672,
+      20.970970153808594,
+      20.553173065185547
+    ],
+    [
+      21.87750816345215,
+      25.28253936767578,
+      24.597061157226562
+    ],
+    [
+      24.014236450195312,
+      24.6746826171875,
+      23.040111541748047
+    ],
+    [
+      16.364282608032227,
+      20.758953094482422,
+      17.44944190979004
+    ],
+    [
+      22.731351852416992,
+      24.979122161865234,
+      17.99213218688965
+    ],
+    [
+      29.716251373291016,
+      16.1968994140625,
+      27.272411346435547
+    ],
+    [
+      24.365055084228516,
+      36.53923797607422,
+      24.601839065551758
+    ],
+    [
+      22.249258041381836,
+      22.97199249267578,
+      22.184646606445312
+    ],
+    [
+      25.73849105834961,
+      30.46700096130371,
+      20.502220153808594
+    ],
+    [
+      23.936325073242188,
+      24.591564178466797,
+      19.172119140625
+    ],
+    [
+      24.24323272705078,
+      30.4620418548584,
+      26.414398193359375
+    ],
+    [
+      28.677074432373047,
+      24.30313491821289,
+      45.85698699951172
+    ],
+    [
+      36.5784797668457,
+      26.203237533569336,
+      22.984472274780273
+    ],
+    [
+      24.378948211669922,
+      28.7489070892334,
+      26.895889282226562
+    ],
+    [
+      30.42949104309082,
+      22.814626693725586,
+      28.575986862182617
+    ],
+    [
+      26.831907272338867,
+      20.708797454833984,
+      34.57252883911133
+    ],
+    [
+      21.960174560546875,
+      26.138843536376953,
+      24.661293029785156
+    ],
+    [
+      30.034090042114258,
+      31.576101303100586,
+      29.760452270507812
+    ],
+    [
+      30.10711669921875,
+      27.716819763183594,
+      31.826435089111328
+    ],
+    [
+      19.276395797729492,
+      20.91930389404297,
+      25.854019165039062
+    ],
+    [
+      26.582921981811523,
+      31.47524070739746,
+      31.04987907409668
+    ],
+    [
+      19.06979751586914,
+      29.487951278686523,
+      18.780609130859375
+    ],
+    [
+      19.162521362304688,
+      25.571178436279297,
+      28.52324867248535
+    ],
+    [
+      31.20789337158203,
+      33.40964889526367,
+      26.596540451049805
+    ],
+    [
+      40.26103973388672,
+      26.987106323242188,
+      30.092103958129883
+    ],
+    [
+      38.78815841674805,
+      26.530048370361328,
+      21.72067642211914
+    ],
+    [
+      33.25752639770508,
+      33.33616256713867,
+      23.755977630615234
+    ],
+    [
+      27.482601165771484,
+      25.999526977539062,
+      26.336978912353516
+    ],
+    [
+      22.63161849975586,
+      28.87493896484375,
+      19.33483123779297
+    ],
+    [
+      19.442745208740234,
+      22.73513412475586,
+      32.35798645019531
+    ],
+    [
+      28.51504898071289,
+      18.96685218811035,
+      30.015867233276367
+    ],
+    [
+      32.412384033203125,
+      19.399646759033203,
+      23.67457389831543
+    ]
+  ],
+  "num_token_paraphrased": [
+    4,
+    5,
+    5,
+    8,
+    7,
+    7,
+    4,
+    4,
+    5,
+    8,
+    6,
+    8,
+    6,
+    7,
+    5,
+    7,
+    5,
+    4,
+    4,
+    7,
+    6,
+    5,
+    6,
+    6,
+    5,
+    7,
+    7,
+    6,
+    7,
+    8,
+    9,
+    5,
+    5,
+    4,
+    6,
+    6,
+    6,
+    5,
+    8,
+    4,
+    5,
+    7,
+    7,
+    8,
+    12,
+    6,
+    5,
+    11,
+    4,
+    5,
+    6,
+    3,
+    5,
+    7,
+    4,
+    6,
+    5,
+    3,
+    6,
+    6,
+    6,
+    5,
+    5,
+    5,
+    7,
+    5,
+    6,
+    6,
+    5,
+    8,
+    8,
+    8,
+    4,
+    10,
+    4,
+    7,
+    7,
+    8,
+    4,
+    6,
+    6,
+    7,
+    3,
+    4,
+    5,
+    6,
+    11,
+    5,
+    4,
+    5,
+    5,
+    5,
+    8,
+    8,
+    7,
+    7,
+    7,
+    6,
+    6,
+    6
+  ],
+  "num_token_perturb": [
+    [
+      5,
+      8,
+      4
+    ],
+    [
+      7,
+      5,
+      4
+    ],
+    [
+      5,
+      6,
+      6
+    ],
+    [
+      7,
+      4,
+      4
+    ],
+    [
+      6,
+      6,
+      4
+    ],
+    [
+      6,
+      4,
+      6
+    ],
+    [
+      5,
+      6,
+      4
+    ],
+    [
+      7,
+      6,
+      7
+    ],
+    [
+      7,
+      4,
+      3
+    ],
+    [
+      5,
+      9,
+      5
+    ],
+    [
+      10,
+      7,
+      7
+    ],
+    [
+      6,
+      6,
+      7
+    ],
+    [
+      5,
+      5,
+      5
+    ],
+    [
+      7,
+      6,
+      5
+    ],
+    [
+      6,
+      8,
+      5
+    ],
+    [
+      7,
+      5,
+      7
+    ],
+    [
+      5,
+      5,
+      5
+    ],
+    [
+      4,
+      8,
+      6
+    ],
+    [
+      7,
+      7,
+      7
+    ],
+    [
+      7,
+      11,
+      4
+    ],
+    [
+      8,
+      5,
+      5
+    ],
+    [
+      7,
+      8,
+      6
+    ],
+    [
+      6,
+      6,
+      7
+    ],
+    [
+      5,
+      7,
+      7
+    ],
+    [
+      8,
+      5,
+      7
+    ],
+    [
+      7,
+      5,
+      7
+    ],
+    [
+      5,
+      6,
+      5
+    ],
+    [
+      5,
+      8,
+      9
+    ],
+    [
+      7,
+      8,
+      8
+    ],
+    [
+      6,
+      7,
+      6
+    ],
+    [
+      7,
+      5,
+      5
+    ],
+    [
+      7,
+      7,
+      7
+    ],
+    [
+      4,
+      5,
+      5
+    ],
+    [
+      7,
+      6,
+      5
+    ],
+    [
+      6,
+      6,
+      7
+    ],
+    [
+      6,
+      8,
+      8
+    ],
+    [
+      7,
+      7,
+      6
+    ],
+    [
+      5,
+      5,
+      6
+    ],
+    [
+      8,
+      10,
+      6
+    ],
+    [
+      4,
+      3,
+      3
+    ],
+    [
+      5,
+      6,
+      8
+    ],
+    [
+      7,
+      5,
+      7
+    ],
+    [
+      7,
+      5,
+      7
+    ],
+    [
+      5,
+      7,
+      8
+    ],
+    [
+      7,
+      7,
+      10
+    ],
+    [
+      7,
+      8,
+      8
+    ],
+    [
+      9,
+      5,
+      6
+    ],
+    [
+      7,
+      5,
+      8
+    ],
+    [
+      6,
+      4,
+      5
+    ],
+    [
+      4,
+      4,
+      6
+    ],
+    [
+      7,
+      8,
+      7
+    ],
+    [
+      3,
+      4,
+      3
+    ],
+    [
+      7,
+      7,
+      7
+    ],
+    [
+      6,
+      4,
+      5
+    ],
+    [
+      4,
+      5,
+      7
+    ],
+    [
+      4,
+      5,
+      8
+    ],
+    [
+      7,
+      6,
+      7
+    ],
+    [
+      3,
+      4,
+      4
+    ],
+    [
+      5,
+      7,
+      7
+    ],
+    [
+      7,
+      6,
+      5
+    ],
+    [
+      7,
+      5,
+      6
+    ],
+    [
+      7,
+      7,
+      5
+    ],
+    [
+      6,
+      8,
+      9
+    ],
+    [
+      5,
+      5,
+      5
+    ],
+    [
+      4,
+      6,
+      4
+    ],
+    [
+      5,
+      7,
+      6
+    ],
+    [
+      6,
+      6,
+      6
+    ],
+    [
+      4,
+      6,
+      5
+    ],
+    [
+      6,
+      9,
+      6
+    ],
+    [
+      5,
+      7,
+      5
+    ],
+    [
+      4,
+      4,
+      5
+    ],
+    [
+      9,
+      6,
+      5
+    ],
+    [
+      5,
+      7,
+      5
+    ],
+    [
+      6,
+      8,
+      7
+    ],
+    [
+      6,
+      7,
+      6
+    ],
+    [
+      5,
+      7,
+      5
+    ],
+    [
+      4,
+      7,
+      8
+    ],
+    [
+      8,
+      6,
+      6
+    ],
+    [
+      4,
+      5,
+      4
+    ],
+    [
+      6,
+      4,
+      7
+    ],
+    [
+      5,
+      5,
+      6
+    ],
+    [
+      4,
+      4,
+      5
+    ],
+    [
+      4,
+      6,
+      4
+    ],
+    [
+      4,
+      6,
+      5
+    ],
+    [
+      5,
+      6,
+      5
+    ],
+    [
+      6,
+      5,
+      7
+    ],
+    [
+      4,
+      5,
+      7
+    ],
+    [
+      5,
+      7,
+      7
+    ],
+    [
+      10,
+      6,
+      7
+    ],
+    [
+      5,
+      5,
+      5
+    ],
+    [
+      4,
+      6,
+      5
+    ],
+    [
+      5,
+      5,
+      4
+    ],
+    [
+      8,
+      6,
+      7
+    ],
+    [
+      7,
+      7,
+      6
+    ],
+    [
+      6,
+      7,
+      6
+    ],
+    [
+      5,
+      9,
+      7
+    ],
+    [
+      7,
+      6,
+      10
+    ],
+    [
+      6,
+      6,
+      6
+    ],
+    [
+      6,
+      6,
+      7
+    ],
+    [
+      5,
+      6,
+      10
+    ]
+  ]
+}

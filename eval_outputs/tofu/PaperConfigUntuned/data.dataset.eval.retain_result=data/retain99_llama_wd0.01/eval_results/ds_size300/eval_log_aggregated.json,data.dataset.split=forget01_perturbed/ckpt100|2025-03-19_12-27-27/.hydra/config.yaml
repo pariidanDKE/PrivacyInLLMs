@@ -1,0 +1,60 @@
+OUTDIRNAME: eval_outputs/tofu
+data:
+  dataset:
+    class_name: ToFU
+    name: locuslab/TOFU
+    split: forget01_perturbed
+    max_length: 250
+    question_key: question
+    answer_key: answer
+    base_answer_key:
+    - paraphrased_answer
+    - answer
+    - answer
+    - paraphrased_answer
+    perturbed_answer_key:
+    - perturbed_answer
+    - perturbed_answer
+    - perturbed_answer
+    - perturbed_answer
+    perturb_path: data/aug_data/tofu/${.split}/perturb_res.csv
+    paraphrase_path: data/aug_data/tofu/${.split}/paraphrase_res.csv
+    eval:
+      batch_size: 4
+      retain_result: data/retain99_llama_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
+      generation:
+        max_length: 200
+        max_new_tokens: null
+  conv_template:
+    question_start_token: '[INST] '
+    question_end_token: ' [/INST]'
+    answer_token: ''
+    max_len: 200
+model:
+  model_name: llama-2
+  model_path: locuslab/tofu_ft_llama2-7b
+  tokenizer_path: locuslab/tofu_ft_llama2-7b
+model_mode:
+  mode: uld
+  num_layer: 8
+  weight: -0.75
+  top_logit_filter: 0.2
+  Lora:
+    r: 32
+    alpha: 32
+    dropout: 0.05
+    bias: none
+    task_type: CAUSAL_LM
+data_mode:
+  expand_forget: true
+  expand_qanum: 3
+  expand_data_path: null
+  with_retain: true
+  retain_num: 40
+  with_perturb: true
+  with_dpo: false
+unlearn_loss:
+  forget_loss: GradDescentLossFunc
+  retain_loss: UniformLossFunc
+  retain_weight: 6.5
+ckpt_path: /home/danp/ULD/output_directory/hf_forget_train/PaperConfigUntuned/data.dataset.eval.retain_result_data/retain99_llama_wd0.01/eval_results/ds_size300/eval_log_aggregated.json|data.dataset.split_forget01_perturbed|trainer.strategy_ddp/2025-03-19_11-59-47/logs/debug/dataset:tofu|loss:remember+uniform_paperconfig|model:llama-2-7b|datamode:paperconfig_forget01/2025-03-19T11-59-47/checkpoint-100
