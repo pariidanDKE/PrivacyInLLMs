@@ -42,6 +42,8 @@ class ToFU_DataModule(TrainDataModule):
         forget_eval = forget_eval.remove_columns(['paraphrased_answer', 'paraphrased_question', 'perturbed_answer'])
         self.forget_eval = forget_eval
 
+
+        ### This is 10% of the retain questions here. For the 1% setting this takes up a lot of space.
         retain_eval = load_dataset('locuslab/TOFU', 'retain_perturbed')['train']
         retain_eval = retain_eval.remove_columns(['paraphrased_answer', 'paraphrased_question', 'perturbed_answer'])
         self.retain_eval = retain_eval

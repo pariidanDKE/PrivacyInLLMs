@@ -185,7 +185,7 @@ def main(configs):
     trainer.train()
 
     #if local_rank == 0: # gives undefined error
-    #    os.symlink(output_dir, os.path.join(checkpoint_dir, "trainlogdir"))
+    os.symlink(output_dir, os.path.join(checkpoint_dir, "trainlogdir"))
 
 if __name__ == "__main__":
     main()

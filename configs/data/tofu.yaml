@@ -18,7 +18,7 @@ dataset:
     batch_size: 4
     #! change retain ratio according to forget split
     #retain_result: data/retain90_llama_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
-    retain_result: data/retain99_llama_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
+    retain_result: ??? #data/retain99_llama_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
     generation:
       max_length: 200
       max_new_tokens: null
