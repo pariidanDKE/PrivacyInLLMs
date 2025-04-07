@@ -1,7 +1,0 @@
-mode: base
-Lora:
-  r: 0
-  alpha: 32
-  dropout: 0.05
-  bias: none
-  task_type: CAUSAL_LM

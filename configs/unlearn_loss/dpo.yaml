@@ -1,3 +1,0 @@
-forget_loss: DPOLossFunc
-retain_loss: null
-retain_weight: 1.0

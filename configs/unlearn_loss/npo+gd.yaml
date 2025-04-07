@@ -1,3 +1,0 @@
-forget_loss: NPOLossFunc
-retain_loss: GradDescentLossFunc
-retain_weight: 1.0

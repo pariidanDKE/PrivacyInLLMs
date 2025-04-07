@@ -1,3 +1,0 @@
-forget_loss: GradAscentLossFunc
-retain_loss: KLLossFunc
-retain_weight: 1.0
