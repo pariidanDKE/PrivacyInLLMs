@@ -1,3 +1,0 @@
-- data.dataset.split=forget01_perturbed
-- +ckpt_path=/home/danp/ULD/output_directory/hf_forget_train/PaperConfigUntuned/data.dataset.eval.retain_result_data/retain99_llama_wd0.01/eval_results/ds_size300/eval_log_aggregated.json|data.dataset.split_forget01_perturbed|trainer.strategy_ddp/2025-03-19_11-59-47/logs/debug/dataset:tofu|loss:remember+uniform_paperconfig|model:llama-2-7b|datamode:paperconfig_forget01/2025-03-19T11-59-47/checkpoint-90
-- data.dataset.eval.retain_result=data/retain99_llama_wd0.01/eval_results/ds_size300/eval_log_aggregated.json
